@@ -1,6 +1,6 @@
 # Glary
 
-Glarysoft maintains Glary. This repo only describes the Windows build and links the live card.
+Glary for Windows. Category: Utilities catalog. Version 6.48.0.52.
 
 Glary Utilities on Windows 10/11 x64. 16 MB. Requirements, screenshots, MoggyDay Launcher.
 
